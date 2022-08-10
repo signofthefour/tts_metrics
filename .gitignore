@@ -1,0 +1,5 @@
+*.wav
+*.npy
+.eggs/
+build/
+tts_metrics.egg-info/
