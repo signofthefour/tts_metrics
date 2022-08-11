@@ -1,7 +1,7 @@
 import abc
 import json
 
-class BasedMetric(metaclass=abc.ABCMeta):
+class BaseMetric(metaclass=abc.ABCMeta):
 
     def __init__(self,
                  dataroot,
